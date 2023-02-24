@@ -1,8 +1,3 @@
-/* eslint-disable @typescript-eslint/comma-dangle */
-/* eslint-disable @typescript-eslint/restrict-template-expressions */
-
-/* eslint-disable @typescript-eslint/naming-convention */
-/* eslint-disable @typescript-eslint/object-curly-spacing */
 import http from 'http';
 import url from 'url';
 
